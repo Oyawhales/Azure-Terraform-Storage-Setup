@@ -58,6 +58,6 @@ This block creates a file system (container) within the storage account oyas.
 ![apply](./img/apply.png)
 
 ### Note
-Ensure that the storage account names (oyas and oyasgen2) are globally unique.
+Ensure that your storage account names (oyas and oyasgen2) are globally unique.
 Modify the resource names and configurations as per your requirements.
 
