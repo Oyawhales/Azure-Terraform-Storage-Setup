@@ -40,7 +40,7 @@ This block creates an Azure Data Lake Storage Gen2 account with locally-redundan
 4. Data Lake Gen2 File System
 
 ![file_system](./img/file_system.png)
-This block creates a file system (container) within the storage account oyas.
+This block creates a file system (container) within the storage account oyasgen2.
 
 ## Deployment Steps
 
