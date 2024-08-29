@@ -1,4 +1,4 @@
-# Azure Storage Account Creation using Terraform
+# Azure Datalake-Gen2 setup using Terraform
 This project demonstrates how to create an Azure Storage Account using Terraform. It includes the necessary Terraform configurations to set up a standard storage account and an Azure Data Lake Storage Gen2 account within a specified resource group on Azure.
 
 ## Prerequisites
